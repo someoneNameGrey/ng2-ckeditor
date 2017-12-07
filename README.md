@@ -1,6 +1,6 @@
 # Angular - CKEditor component
 
-Use the [CKEditor (4.x)](http://ckeditor.com/) wysiwyg in your Angular (v2 and v4)  application.
+Use the [CKEditor (4.x)](http://ckeditor.com/) wysiwyg in your Angular (v5)  application.
 
 **Demo** : https://embed.plnkr.co/hnB0R3/
 
